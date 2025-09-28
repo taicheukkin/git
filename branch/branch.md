@@ -1,4 +1,3 @@
-Of course. Here is a summary of the provided transcript in Markdown format.
 
 ## Git Branching Summary
 
